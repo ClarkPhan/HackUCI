@@ -30,6 +30,11 @@ While we did get the base of a battle system implemented, we did not add it to t
 the deadline sadly. You can see that progress in our pet-test.js file.
 
 ## How It Works
+Feed Slimey to make him grow! 
+
+If hunger reaches 0, Slimey will level up and his stats will increase. When you are satisfied with your Slimey's growth, you have the option of receiving an email with your Slimey's stats.
+
+Compete with your friends to see who can grow Slimey the most!
 
 ## Our Website
 ![slimey_edit_0](https://user-images.githubusercontent.com/32719891/35777187-7023cece-095e-11e8-92ac-2ea7f4809581.gif)
